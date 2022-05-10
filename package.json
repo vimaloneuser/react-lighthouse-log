@@ -1,5 +1,5 @@
 {
-  "name": "react-lighthouse-log",
+  "name": "react-lighthouse-error-log",
   "version": "1.0.0",
   "description": "This package will be used for custom logs ",
   "main": "index.ts",
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vimaloneuser/node-lighthouse-log.git"
+    "url": "git+https://github.com/vimaloneuser/react-lighthouse-log.git"
   },
   "bugs": {
-    "url": "https://github.com/vimaloneuser/node-lighthouse-log/issues"
+    "url": "https://github.com/vimaloneuser/react-lighthouse-log/issues"
   },
-  "homepage": "https://github.com/vimaloneuser/node-lighthouse-log#readme"
+  "homepage": "https://github.com/vimaloneuser/react-lighthouse-log#readme"
 }
